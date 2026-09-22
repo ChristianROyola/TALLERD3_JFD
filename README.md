@@ -8,7 +8,7 @@ Este repositorio contiene las instrucciones y recursos reproducibles para realiz
 
 Para replicar este flujo desde cero, los insumos primarios deben ser descargados del portal oficial del Instituto Nacional de Estadística y Censos (INEC) siguiendo el siguiente procedimiento:
 
-1. **Acceso al portal oficial:** Ingresar al [Portal Censo Ecuador](https://www.censoecuador.gob.ec/).
+1. **Acceso al portal oficial:** Ingresar al <a href="https://www.censoecuador.gob.ec/" target="_blank" rel="noopener noreferrer">Portal Censo Ecuador</a>.
 2. **Navegación:** En el menú principal, acceder a la sección **Resultados**.
 3. **Módulo de datos:** Dirigirse al apartado **Data**.
 4. **Descarga de la Base de Datos:**
